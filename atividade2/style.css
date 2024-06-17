@@ -17,7 +17,7 @@ main{
     align-items: center;
     box-shadow: 3px 3px 3px rgb(99, 73, 49);
 }
-.image{
+.image{ /*div para incluir a imagem*/
     width: 550px;
     height: 200px;
     padding-right: 15px;
@@ -26,7 +26,7 @@ main{
     width: 100%;
     border-radius: 10px;
 }
-.texto{
+.texto{ /*div reservado ao texto*/
     height: 200px;
 }
 h2{
